@@ -1,7 +1,5 @@
 
- <image   style="margin-left:90px; height:200px;width:200px;" src="yo.gif"> 
- <image style=" height:100px;width:100px; " src="doggy.gif"> 
-  <image  style=" height:200px;width:200px;"  src="luffy2.gif">  
+ <image   style="margin-left:90px; height:200px;width:200px;" src="yo.gif"> <image style=" height:100px;width:100px; " src="doggy.gif"><image  style=" height:200px;width:200px;"  src="luffy2.gif">  
 
 
  <br>
