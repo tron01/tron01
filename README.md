@@ -1,6 +1,10 @@
 
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<image style="height:100px;width:100px;" src="doggy.gif"> <image   style=" height:200px;width:200px;" src="yo.gif"> 
- <image style="height:100px;width:100px;" src="doggy.gif">
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <center>
+
+   <image   style=" height:200px;width:200px;" src="yo.gif"> 
+</center>
+
  <br>
  <image src="contributions.svg"> 
 
